@@ -1,3 +1,6 @@
+
+** This example is based on my ImageMagick blog post [Create awesome images with ImageMagick](https://www.cupofdev.com/create-awesome-images-with-imagemagick/) **
+
 # Resources : 
 ## Social Media Image Sizes : https://w3cinc.com/resources/social-media-image-sizes/
 ## Meetup
