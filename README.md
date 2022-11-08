@@ -18,7 +18,13 @@ https://w3cinc.com/resources/social-media-image-sizes/
 * Profile image dimensions: 400 x 400.
 * Post image dimensions: 1024 x 512.
 
-Hashrocket Image Generation : https://hashrocket.com/blog/posts/generate-images-for-instagram
+## Blog Posts : 
+* Hashrocket Image Generation :
+https://hashrocket.com/blog/posts/generate-images-for-instagram
+
+* Cupofdev : 
+https://www.cupofdev.com/create-awesome-images-with-imagemagick/
+
 
 ## Stock Photos : 
 https://unsplash.com
